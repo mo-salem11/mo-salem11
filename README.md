@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEP8nmgGHeImQ/profile-displaybackgroundimage-shrink_350_1400/0/1708649575894?e=1719446400&v=beta&t=aOuqyemTXrRHwJrPZ7kRvkwwdfQ8AQhOuP-rhM09KrA)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEP8nmgGHeImQ/profile-displaybackgroundimage-shrink_350_1400/0/1708649575894?e=1719446400&v=beta&t=aOuqyemTXrRHwJrPZ7kRvkwwdfQ8AQhOuP-rhM09KrA)]
 <h1 align="center">Hi 👋, I'm Mohamed El-Sayed</h1>
 <h3 align="center">A passionate frontend engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-salem-121531269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-salem-121531269/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/salmm3066?csrf_token=c397c83906eab02fe78f154e663b2f99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/salmm3066?csrf_token=c397c83906eab02fe78f154e663b2f99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mo-salem11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mo-salem11/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-salem-121531269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salem-121531269/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/salmm3066?csrf_token=c397c83906eab02fe78f154e663b2f99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/salmm3066?csrf_token=c397c83906eab02fe78f154e663b2f99" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mo-salem11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mo-salem11/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
