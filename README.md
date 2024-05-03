@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEP8nmgGHeImQ/profile-displaybackgroundimage-shrink_350_1400/0/1708649575894?e=1719446400&v=beta&t=aOuqyemTXrRHwJrPZ7kRvkwwdfQ8AQhOuP-rhM09KrA)
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/j/johnjamees/20210330/20210330141447.jpg" alt="MasterHead" height="400" width="100%">
 <h1 align="center">Hi 👋, I'm Mohamed El-Sayed</h1>
 <h3 align="center">A passionate frontend engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
